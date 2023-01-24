@@ -1,0 +1,5 @@
+print('Martes 10 de enero de 2023')
+print('Hoy me siento muy bien')
+print('Este curso quiero conseguir una buena nota y entrar en el grado que me guste')
+print('En 3 meses, habré aprobado todos los finales con muy buena nota')
+print('🐵')
